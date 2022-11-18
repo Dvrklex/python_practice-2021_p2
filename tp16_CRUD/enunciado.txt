@@ -1,0 +1,5 @@
+Las operaciones habituales que se realizan sobre conjuntos de datos suelen resumirse en la sigla CRUD (Create-Read-Update-Delete) 
+que se traducen como crear, leer, actualizar y  borrar.
+
+Utilizando el elemento sg.Table, el elemento sg.Listbox, o bien cualquier otra estructura que les interese implementar,
+ armar un listado de datos y permitir agregar, modificar y borrar los mismos.

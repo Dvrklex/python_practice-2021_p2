@@ -1,0 +1,4 @@
+Alex=1
+Lolo=3
+JOaco=5
+Leo=1Manco=6Nadie=1Cmapoe=11

@@ -1,0 +1,7 @@
+[
+    {"Dia":"Lunes","Materias":["Sistemas y Organizaciones","Programacion I"],"Horarios":["20:00 a 21:20","21:20 a 23:20"]},
+    {"Dia":"Martes","Materias":["Matematica y Logica","Programacion I"], "Horarios":["19:20 a 21:20","21:20 a 23:20"]},
+    {"Dia":"Miercoles","Materias":["Arquitectura de las Computadoras", "Lengua y Comunicacion"],"Horarios":["20:00 a 21:20","21:20 a 23:20"]},
+    {"Dia":"Jueves","Materias":["Matematica y Logica","Programacion I"],"Horarios":["20:00 a 21:20","21:20 a 23:20"]},
+    {"Dia":"Viernes","Materias":["Ingles","Arquitectura de las Computadoras" ],"Horarios":["19:20 a 21:20","21:20 a 23:20"]}
+]
